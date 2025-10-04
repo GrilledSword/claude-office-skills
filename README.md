@@ -16,22 +16,26 @@ This repository packages the same Office document manipulation skills used by [C
 ## Key Capabilities
 
 ### PowerPoint
+
 - **HTML-to-PPTX conversion** - Design slides in HTML/CSS, render to PPTX with full formatting
 - **Template-based creation** - Rearrange slides, replace text with JSON, preserve formatting
 - **Visual validation** - Generate thumbnail grids to catch text cutoff and layout issues
 - **OOXML editing** - Direct XML manipulation for precise control
 
 ### Word
+
 - **Tracked changes (redlining)** - Professional document editing with change tracking
 - **OOXML manipulation** - Add comments, modify structure, preserve formatting
 - **Text extraction** - Export content with tracked changes preserved
 
 ### Excel
+
 - **Formula-based models** - Working formulas with zero-error requirement
 - **Professional formatting** - Color-coded inputs/formulas, custom number formats
 - **Data validation** - Years as text, zeros formatted as "-", proper cell styling
 
 ### PDF
+
 - **Form filling** - Populate fillable PDFs programmatically
 - **Document merging** - Combine multiple PDFs
 - **Format conversion** - PPTX to PDF, PDF to images
@@ -60,12 +64,14 @@ Simply tell Claude Code what you want to create:
 
 ```
 > Create a quarterly sales presentation with 5 slides
+> Create a powerpoint presentation based on @input/slide_notes.txt
 > Edit this Word document and add tracked changes
 > Build an Excel financial model for budget projections
 > Fill out this PDF form with data from this JSON
 ```
 
 Claude Code will:
+
 1. Check if a skill exists for your task
 2. Read the appropriate `SKILL.md` workflow
 3. Execute the workflow step-by-step
@@ -142,12 +148,14 @@ Claude Code handles all these steps automatically when you ask it to create a pr
 
 ## Why Use This?
 
-### Desktop Claude is Great For...
+### Desktop Claude is Great For
+
 - Interactive document creation
 - One-off projects
 - Visual feedback during creation
 
-### Claude Code is Great For...
+### Claude Code is Great For
+
 - **Automation** - Generate monthly reports, process batches of documents
 - **CI/CD integration** - Create documentation as part of build pipelines
 - **Custom workflows** - Combine with other tools (databases, APIs, scripts)
