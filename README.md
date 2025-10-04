@@ -200,9 +200,9 @@ outputs/
 
 This keeps your working directory clean and makes automation easier.
 
-## License
+## Attribution
 
-See individual skill files for attribution. OOXML schemas are from ISO/IEC 29500-4:2016 and ECMA standards.
+Most scripts and workflows in this repository come directly from Claude (Anthropic's AI assistant) and are included here verbatim. If Anthropic wishes for this repository to be taken down, please contact me and I will comply immediately.
 
 ## Contributing
 
@@ -212,10 +212,3 @@ This is a skills repository. To add capabilities:
 2. Document in the appropriate `SKILL.md`
 3. Update `CLAUDE.md` with new commands
 4. Ensure validation scripts pass
-
-## Related Projects
-
-- [Claude Desktop](https://claude.com) - Interactive version with same capabilities
-- [Claude Code](https://docs.claude.com/en/docs/claude-code) - CLI tool this repo supports
-- [python-pptx](https://github.com/scanny/python-pptx) - Core library for PPTX manipulation
-- [PptxGenJS](https://gitbrent.github.io/PptxGenJS/) - HTML-to-PPTX rendering engine
