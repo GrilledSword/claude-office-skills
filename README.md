@@ -148,18 +148,15 @@ Claude Code handles all these steps automatically when you ask it to create a pr
 
 ## Why Use This?
 
-### Desktop Claude is Great For
+### Desktop/Web Claude is Great For
 
 - Interactive document creation
-- One-off projects
 - Visual feedback during creation
 
 ### Claude Code is Great For
 
 - **Automation** - Generate monthly reports, process batches of documents
-- **CI/CD integration** - Create documentation as part of build pipelines
 - **Custom workflows** - Combine with other tools (databases, APIs, scripts)
-- **Version control** - Track changes to document generation scripts
 - **Server environments** - Run headless without desktop GUI
 - **Template iteration** - Rapidly test changes to document templates
 
@@ -167,10 +164,10 @@ Claude Code handles all these steps automatically when you ask it to create a pr
 
 - **Automated reporting** - Generate weekly/monthly presentations from database data
 - **Batch processing** - Convert 100 HTML pages to PPTX slides
-- **Template management** - Maintain corporate templates with version control
+- Create sales decks based on product data you pulled from a RAG system
 - **Document pipelines** - Pull data → populate Excel → generate PDF → email
-- **CI/CD documentation** - Auto-generate release decks, changelogs, reports
 - **API integration** - Webhook triggers document generation
+- learn how to build similar agents for other tasks
 
 ## Documentation
 
